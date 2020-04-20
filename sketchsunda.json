@@ -1,1 +1,30 @@
-[{"kode":"getActionBar().setSubtitle(\"Teks disini\");","nama":"ActionBar Subtitle"},{"kode":"getSupportActionBar().setSubtitle(\"Teks disini\");","nama":"ActionBar Subtitle AppCompat"},{"kode":"getActionBar().setTitle(\"Teks disini\");","nama":"ActionBar Title"},{"kode":"getSupportActionBar().setTitle(\"Teks disini\");","nama":"ActionBar Title AppCompat"},{"kode":"getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);","nama":"Block Screenshoot"}]
+[
+	{
+		"kode":"getActionBar().setSubtitle(\"Teks disini\");",
+		"nama":"ActionBar Subtitle"
+	},
+	{
+		"kode":"getSupportActionBar().setSubtitle(\"Teks disini\");",
+		"nama":"ActionBar Subtitle AppCompat"
+	},
+	{
+		"kode":"getActionBar().setTitle(\"Teks disini\");",
+		"nama":"ActionBar Title"
+	},
+	{
+		"kode":"getSupportActionBar().setTitle(\"Teks disini\");",
+		"nama":"ActionBar Title AppCompat"
+	},
+	{
+		"kode":"getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);",
+		"nama":"Block Screenshoot"
+	},
+	{
+		"kode":" getActionBar().hide();",
+		"nama":"ActionBar Hide"
+	},
+	{
+		"kode":" getSupportActionBar().hide();",
+		"nama":"ActionBar Hide AppCompat"
+	}
+]
