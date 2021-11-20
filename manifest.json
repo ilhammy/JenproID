@@ -1,0 +1,29 @@
+{
+   "name":"Judul Blog/Website",
+   "short_name":"Judul Blog/Website",
+   "start_url":"URL Blog/Website",
+   "display":"standalone",
+   "background_color":"#ffffff",
+   "theme_color":"#000000",
+   "description":"Deskripsi Blog/Website",
+   "icons":[
+      {
+         "src":"https://rabixshop.takstok.com/img/icons/icon-72.png",
+         "sizes":"72x72",
+         "type":"image/png",
+         "density":"1.5"
+      },
+      {
+         "src":"https://rabixshop.takstok.com/img/icons/icon-144.png",
+         "sizes":"144x144",
+         "type":"image/png",
+         "density":"3.0"
+      },
+      {
+         "src":"https://rabixshop.takstok.com/img/icons/icon-256.png",
+         "sizes":"256x256",
+         "type":"image/png",
+         "density":"5.0"
+      }
+   ]
+}
